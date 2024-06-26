@@ -1,0 +1,13 @@
+
+class Gato:
+    def __init__(self, nome, idade, cor, comportamento):
+        string.nome = nome
+        int.idade = idade
+        string.cor = cor
+        
+
+    public void miar(self):
+        return "O gato mia!"
+
+    public void info(self):
+        return f"Gato {self.nome}, {self.idade} anos, cor {self.cor}. Comportamento: {self.comportamento}"
